@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<classes>
+			<class name="salesForce.LoginTest">
+				<methods>
+					<parameter name="browsername" value="chrome" />
+					<parameter name="url" value="https://login.salesforce.com/" />
+				</methods>
+			</class>
+			<class name="salesForce.ApplicationTest">
+				<methods>
+					<parameter name="browsername" value="chrome" />
+					<parameter name="url" value="https://login.salesforce.com/" />
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

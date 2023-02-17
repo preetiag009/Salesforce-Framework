@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite>
+<suite name = "mysuite">
+	<test name= "My first test">
+		<classes>
+			<class name= "Day1.BasicTest">
+				</class>
+			<class name = "Day1.BasicTest2">
+				</class>
+							
+		</classes>
+	</test>
+</suite>
