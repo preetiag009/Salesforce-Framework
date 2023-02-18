@@ -383,7 +383,6 @@ public class ApplicationTest extends ParentApplicationTest {
 		WebElement saveButton = driver.findElement(By.xpath("//td/input[@value=' Save '][1]"));
 		waitTime(saveButton);
 		clickAction(saveButton);
-
 	}
 
 	@Test(priority = 7, alwaysRun = true)
@@ -480,8 +479,6 @@ public class ApplicationTest extends ParentApplicationTest {
 
 		switchToAlert();
 		// alert.accept();
-
-		
 	}
 
 	@Test(priority = 9, alwaysRun = true)
@@ -553,7 +550,6 @@ public class ApplicationTest extends ParentApplicationTest {
 			// TODO Auto-generated catch block
 			logger.info("Report Saved Sucessfully");
 		}
-	
 	}
 
 	@Test(priority = 10, alwaysRun = true)
@@ -572,8 +568,6 @@ public class ApplicationTest extends ParentApplicationTest {
 		clickAction(allOpportunities);
 		logger.info("Opportunities Dropdown options: ");
 		listDropdownOptions(allOpportunities);
-
-
 	}
 
 	@Test(priority = 11, alwaysRun = true)
