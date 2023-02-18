@@ -57,9 +57,10 @@ public class ExtentReportsUtility {
 		testLogger.fail(MarkupHelper.createLabel(testcaseName + "is failed", ExtentColor.RED));
 	}
 	
-	public void logTestFailedWithException(Exception e) {
-		testLogger.log(Status.FAIL,e);
-		}
+	public void logTestFailedWithException(Throwable throwable) {
+		testLogger.log(Status.FAIL,throwable);
+	}
+	
 	public void logTestScreenshot(String path) {
 		testLogger.addScreenCaptureFromPath(path);
 		}

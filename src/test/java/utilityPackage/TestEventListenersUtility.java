@@ -39,6 +39,7 @@ public class TestEventListenersUtility implements ITestListener{
 			e.printStackTrace();
 		}
 		extentreport.logTestScreenshot(path);
+		extentreport.logTestFailedWithException(result.getThrowable());
 	}
 
 	@Override

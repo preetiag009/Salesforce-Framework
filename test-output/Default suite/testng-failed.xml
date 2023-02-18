@@ -6,7 +6,7 @@
       <class name="salesForce.ApplicationTest">
         <methods>
           <include name="setUpBeforeMethod"/>
-          <include name="todaysLeads23"/>
+          <include name="createAccountReport14"/>
           <include name="setUpAfterMethod"/>
           <include name="setUpAfterTest"/>
           <include name="setUpBeforeTest"/>

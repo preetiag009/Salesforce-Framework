@@ -537,16 +537,17 @@ public class ApplicationTest extends ParentApplicationTest {
 		enterText(reportUniqueName, reportuniquename, "Report Unique Name");
 
 		sleepWait(2000);
-		WebElement saveAndRunReport = driver.findElement(By.xpath("//button[@id='ext-gen316']"));
-		waitTime(saveAndRunReport);
-		clickAction(saveAndRunReport);
-		sleepWait(3000);
-
+		
 		try {
 			WebElement error = driver.findElement(By.xpath("//div[@id='ext-gen351']"));
 			if (!error.getText().equals("")) {
 				WebElement cancel = driver.findElement(By.xpath("//button[@id='ext-gen318']"));
 				clickAction(cancel);
+			}else {
+				WebElement saveAndRunReport = driver.findElement(By.xpath("//button[@id='ext-gen315']"));
+				waitTime(saveAndRunReport);
+				clickAction(saveAndRunReport);
+				sleepWait(3000);
 			}
 		} catch (Exception e) {
 			// TODO Auto-generated catch block

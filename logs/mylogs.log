@@ -1,0 +1,101 @@
+20230217 16:34:03 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java65 - The test has started.
+20230217 16:34:03 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java73 - Inside method -createAccountReport14
+20230217 16:34:05 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (3bbfdc4ad020574dac8f2994a57b52cd)] -> id: username]
+20230217 16:34:06 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java148 - Entered text to: Username
+20230217 16:34:06 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (3bbfdc4ad020574dac8f2994a57b52cd)] -> id: password]
+20230217 16:34:06 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java148 - Entered text to: Password
+20230217 16:34:09 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (3bbfdc4ad020574dac8f2994a57b52cd)] -> id: Login]
+20230217 16:34:12 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (3bbfdc4ad020574dac8f2994a57b52cd)] -> xpath: //ul/li/a[@title='Accounts Tab']]
+20230217 16:34:16 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (3bbfdc4ad020574dac8f2994a57b52cd)] -> xpath: //div/a[@id ='tryLexDialogX']]
+20230217 16:34:19 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (3bbfdc4ad020574dac8f2994a57b52cd)] -> link text: Accounts with last activity > 30 days]
+20230217 16:34:20 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (3bbfdc4ad020574dac8f2994a57b52cd)] -> id: ext-gen148]
+20230217 16:34:20 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (3bbfdc4ad020574dac8f2994a57b52cd)] -> xpath: //div[contains(text(),'Created Date')]]
+20230217 16:34:20 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (3bbfdc4ad020574dac8f2994a57b52cd)] -> xpath: //img[@id='ext-gen152']]
+20230217 16:34:24 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (3bbfdc4ad020574dac8f2994a57b52cd)] -> xpath: //em/button[starts-with(@id,'ext-gen28')]]
+20230217 16:34:24 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (3bbfdc4ad020574dac8f2994a57b52cd)] -> xpath: //img[@id='ext-gen154']]
+20230217 16:34:26 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (3bbfdc4ad020574dac8f2994a57b52cd)] -> xpath: //em/button[starts-with(@id,'ext-gen29') and text()='Today']]
+20230217 16:34:27 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (3bbfdc4ad020574dac8f2994a57b52cd)] -> xpath: //button[@id='ext-gen49']]
+20230217 16:34:27 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (3bbfdc4ad020574dac8f2994a57b52cd)] -> xpath: //input[@id='saveReportDlg_reportNameField']]
+20230217 16:34:27 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java148 - Entered text to: Report Name
+20230217 16:34:27 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (3bbfdc4ad020574dac8f2994a57b52cd)] -> xpath: 	//input[@id='saveReportDlg_DeveloperName']]
+20230217 16:34:27 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java148 - Entered text to: Report Unique Name
+20230217 16:34:32 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (3bbfdc4ad020574dac8f2994a57b52cd)] -> id: userNavLabel]
+20230217 16:34:32 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java306 -  Couldn't logout: createAccountReport14
+20230217 16:34:32 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java312 -  Method completed: createAccountReport14
+20230217 16:34:32 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java320 - The test is completed
+20230217 16:40:48 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java65 - The test has started.
+20230217 16:40:48 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java73 - Inside method -createAccountReport14
+20230217 16:40:50 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (42c9224336315ac0ae7b777a76cea3fa)] -> id: username]
+20230217 16:40:50 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java148 - Entered text to: Username
+20230217 16:40:50 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (42c9224336315ac0ae7b777a76cea3fa)] -> id: password]
+20230217 16:40:50 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java148 - Entered text to: Password
+20230217 16:40:52 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (42c9224336315ac0ae7b777a76cea3fa)] -> id: Login]
+20230217 16:40:57 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (42c9224336315ac0ae7b777a76cea3fa)] -> xpath: //ul/li/a[@title='Accounts Tab']]
+20230217 16:41:01 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (42c9224336315ac0ae7b777a76cea3fa)] -> xpath: //div/a[@id ='tryLexDialogX']]
+20230217 16:41:04 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (42c9224336315ac0ae7b777a76cea3fa)] -> link text: Accounts with last activity > 30 days]
+20230217 16:41:04 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (42c9224336315ac0ae7b777a76cea3fa)] -> id: ext-gen148]
+20230217 16:41:04 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (42c9224336315ac0ae7b777a76cea3fa)] -> xpath: //div[contains(text(),'Created Date')]]
+20230217 16:41:05 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (42c9224336315ac0ae7b777a76cea3fa)] -> xpath: //img[@id='ext-gen152']]
+20230217 16:41:09 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (42c9224336315ac0ae7b777a76cea3fa)] -> xpath: //em/button[starts-with(@id,'ext-gen28')]]
+20230217 16:41:09 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (42c9224336315ac0ae7b777a76cea3fa)] -> xpath: //img[@id='ext-gen154']]
+20230217 16:41:11 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (42c9224336315ac0ae7b777a76cea3fa)] -> xpath: //em/button[starts-with(@id,'ext-gen29') and text()='Today']]
+20230217 16:41:11 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (42c9224336315ac0ae7b777a76cea3fa)] -> xpath: //button[@id='ext-gen49']]
+20230217 16:41:11 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (42c9224336315ac0ae7b777a76cea3fa)] -> xpath: //input[@id='saveReportDlg_reportNameField']]
+20230217 16:41:11 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java148 - Entered text to: Report Name
+20230217 16:41:12 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (42c9224336315ac0ae7b777a76cea3fa)] -> xpath: 	//input[@id='saveReportDlg_DeveloperName']]
+20230217 16:41:12 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java148 - Entered text to: Report Unique Name
+20230217 16:41:16 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (42c9224336315ac0ae7b777a76cea3fa)] -> id: userNavLabel]
+20230217 16:41:16 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java306 -  Couldn't logout: createAccountReport14
+20230217 16:41:17 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java312 -  Method completed: createAccountReport14
+20230217 16:41:17 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java320 - The test is completed
+20230217 16:43:09 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java65 - The test has started.
+20230217 16:43:09 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java73 - Inside method -createAccountReport14
+20230217 16:43:11 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (4ee11e94348e0e0abbf0b4c8dc1bfb71)] -> id: username]
+20230217 16:43:11 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java148 - Entered text to: Username
+20230217 16:43:11 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (4ee11e94348e0e0abbf0b4c8dc1bfb71)] -> id: password]
+20230217 16:43:11 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java148 - Entered text to: Password
+20230217 16:43:13 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (4ee11e94348e0e0abbf0b4c8dc1bfb71)] -> id: Login]
+20230217 16:43:19 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (4ee11e94348e0e0abbf0b4c8dc1bfb71)] -> xpath: //ul/li/a[@title='Accounts Tab']]
+20230217 16:43:23 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (4ee11e94348e0e0abbf0b4c8dc1bfb71)] -> xpath: //div/a[@id ='tryLexDialogX']]
+20230217 16:43:39 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (4ee11e94348e0e0abbf0b4c8dc1bfb71)] -> link text: Accounts with last activity > 30 days]
+20230217 16:43:39 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (4ee11e94348e0e0abbf0b4c8dc1bfb71)] -> id: ext-gen148]
+20230217 16:43:39 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (4ee11e94348e0e0abbf0b4c8dc1bfb71)] -> xpath: //div[contains(text(),'Created Date')]]
+20230217 16:43:39 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (4ee11e94348e0e0abbf0b4c8dc1bfb71)] -> xpath: //img[@id='ext-gen152']]
+20230217 16:43:44 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (4ee11e94348e0e0abbf0b4c8dc1bfb71)] -> xpath: //em/button[starts-with(@id,'ext-gen28')]]
+20230217 16:43:44 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (4ee11e94348e0e0abbf0b4c8dc1bfb71)] -> xpath: //img[@id='ext-gen154']]
+20230217 16:43:46 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (4ee11e94348e0e0abbf0b4c8dc1bfb71)] -> xpath: //em/button[starts-with(@id,'ext-gen29') and text()='Today']]
+20230217 16:43:46 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (4ee11e94348e0e0abbf0b4c8dc1bfb71)] -> xpath: //button[@id='ext-gen49']]
+20230217 16:43:46 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (4ee11e94348e0e0abbf0b4c8dc1bfb71)] -> xpath: //input[@id='saveReportDlg_reportNameField']]
+20230217 16:43:46 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java148 - Entered text to: Report Name
+20230217 16:43:47 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (4ee11e94348e0e0abbf0b4c8dc1bfb71)] -> xpath: 	//input[@id='saveReportDlg_DeveloperName']]
+20230217 16:43:47 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java148 - Entered text to: Report Unique Name
+20230217 16:43:53 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (4ee11e94348e0e0abbf0b4c8dc1bfb71)] -> id: userNavLabel]
+20230217 16:43:53 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java306 -  Couldn't logout: createAccountReport14
+20230217 16:43:53 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java312 -  Method completed: createAccountReport14
+20230217 16:43:53 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java320 - The test is completed
+20230217 16:48:15 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java65 - The test has started.
+20230217 16:48:15 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java73 - Inside method -createAccountReport14
+20230217 16:48:17 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (a5d1ba1ae6f3ce43912a1d9c64a40658)] -> id: username]
+20230217 16:48:18 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java148 - Entered text to: Username
+20230217 16:48:18 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (a5d1ba1ae6f3ce43912a1d9c64a40658)] -> id: password]
+20230217 16:48:18 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java148 - Entered text to: Password
+20230217 16:48:20 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (a5d1ba1ae6f3ce43912a1d9c64a40658)] -> id: Login]
+20230217 16:48:24 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (a5d1ba1ae6f3ce43912a1d9c64a40658)] -> xpath: //ul/li/a[@title='Accounts Tab']]
+20230217 16:48:29 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (a5d1ba1ae6f3ce43912a1d9c64a40658)] -> xpath: //div/a[@id ='tryLexDialogX']]
+20230217 16:48:31 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (a5d1ba1ae6f3ce43912a1d9c64a40658)] -> link text: Accounts with last activity > 30 days]
+20230217 16:48:31 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (a5d1ba1ae6f3ce43912a1d9c64a40658)] -> id: ext-gen148]
+20230217 16:48:31 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (a5d1ba1ae6f3ce43912a1d9c64a40658)] -> xpath: //div[contains(text(),'Created Date')]]
+20230217 16:48:31 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (a5d1ba1ae6f3ce43912a1d9c64a40658)] -> xpath: //img[@id='ext-gen152']]
+20230217 16:48:35 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (a5d1ba1ae6f3ce43912a1d9c64a40658)] -> xpath: //em/button[starts-with(@id,'ext-gen28')]]
+20230217 16:48:36 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (a5d1ba1ae6f3ce43912a1d9c64a40658)] -> xpath: //img[@id='ext-gen154']]
+20230217 16:48:38 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (a5d1ba1ae6f3ce43912a1d9c64a40658)] -> xpath: //em/button[starts-with(@id,'ext-gen29') and text()='Today']]
+20230217 16:48:38 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (a5d1ba1ae6f3ce43912a1d9c64a40658)] -> xpath: //button[@id='ext-gen49']]
+20230217 16:48:38 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (a5d1ba1ae6f3ce43912a1d9c64a40658)] -> xpath: //input[@id='saveReportDlg_reportNameField']]
+20230217 16:48:38 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java148 - Entered text to: Report Name
+20230217 16:48:38 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (a5d1ba1ae6f3ce43912a1d9c64a40658)] -> xpath: 	//input[@id='saveReportDlg_DeveloperName']]
+20230217 16:48:38 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java148 - Entered text to: Report Unique Name
+20230217 16:48:41 INFO  [main] salesForce.ApplicationTest ApplicationTest.java554 - Report Saved Sucessfully
+20230217 16:48:43 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java207 - WebElement clicked [[ChromeDriver: chrome on WINDOWS (a5d1ba1ae6f3ce43912a1d9c64a40658)] -> id: userNavLabel]
+20230217 16:48:43 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java306 -  Couldn't logout: createAccountReport14
+20230217 16:48:43 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java312 -  Method completed: createAccountReport14
+20230217 16:48:43 INFO  [main] salesForce.ParentApplicationTest ParentApplicationTest.java320 - The test is completed
